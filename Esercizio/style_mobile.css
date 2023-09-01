@@ -1,0 +1,135 @@
+nav {
+  background-color: black;
+  text-align: center;
+  height: 20%;
+  margin: 0 auto;
+  background-size: cover;
+  size: small;
+  margin-bottom: 0;
+}
+#ridimensionamento {
+  width: 30%;
+  margin: 40px;
+}
+
+header {
+  text-align: center;
+  padding-bottom: 77px;
+  margin-top: -33px;
+}
+.sfondo {
+  background-image: url(images/banner.jpg);
+  background-size: cover;
+  width: 100%;
+}
+h1 {
+  color: #25a2c3;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 3rem;
+  padding-top: 50px;
+}
+.uno {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5rem;
+  color: #393d41;
+}
+button {
+  color: white;
+  background-color: #f04c2f;
+  font-weight: bold;
+  text-decoration: none;
+  border: 2px solid #f04c2f;
+  border-radius: 4px;
+  font-family: "Poppins", sans-serif;
+  padding: 3px 10px;
+  width: 180px;
+  height: 50px;
+}
+main.primaparte {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+h2 {
+  color: #25a2c3;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+p {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.2rem;
+  color: rgb(99, 95, 95);
+}
+.radius {
+  text-align: center;
+  border-radius: 100%;
+  border: 1px solid white;
+  padding-top: 5px;
+}
+.cambio {
+  font-size: 1.8rem;
+  font-family: "Poppins", sans-serif;
+}
+.secondaparte {
+  text-align: center;
+  background-color: #f04c2f;
+  color: white;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p.bianco {
+  color: white;
+}
+h4 {
+  font-family: "Poppins";
+}
+
+.foto {
+  margin-top: 50px;
+  width: 500px;
+}
+.terzaparte {
+  text-align: center;
+}
+div.primafoto {
+  border: 1px solid;
+  border-top: 0px;
+  border-color: rgb(197, 191, 191);
+}
+div.secondafoto {
+  border: 1px solid;
+  border-top: 0px;
+  border-color: rgb(197, 191, 191);
+}
+div.terzafoto {
+  border: 1px solid;
+  border-top: 0px;
+  border-color: rgb(197, 191, 191);
+  padding-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: #25a2c3;
+  text-decoration: none;
+  padding-top: 20px;
+  margin-top: 50px;
+  padding-bottom: 30px;
+  font-size: 1.5rem;
+  font-family: "Poppins", sans-serif;
+}
+a {
+  color: white;
+  line-height: 30px;
+  font-size: 1.5rem;
+  font-family: "Poppins", sans-serif;
+}
+hr.taglio {
+  width: 250px;
+}
+
+p.finale {
+  color: white;
+}
